@@ -1,0 +1,18 @@
+.projects{
+    margin-top: 2rem;
+    display:flex;
+    height: 30rem;
+    width: auto;
+}
+.projects div{
+    flex:1;
+    background-image: url("/img/habit.jpg");
+    background-size: cover;
+}
+.projects h1{
+    flex:1;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
